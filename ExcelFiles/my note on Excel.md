@@ -7,3 +7,11 @@
 
 ## For removing Blank rows
 	 filter> check blank from at last. then delete using ctrl- ## Best font for excel is - Segoe UI or Verdana , Calibri , Consolas
+
+### Create Dropdown
+	For creating dropdown - create a list> 
+	select the cell want to where create dropdown.
+	go to Data Menu> Data Validation>Choose List from dropdown>
+	Select the list cells created> ok
+	
+	
