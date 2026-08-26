@@ -1,5 +1,5 @@
 ## To use filter 
-	 select the first cell of a sheet then click - ctrl + shift + L 
+	select the first cell of a sheet then click - ctrl + shift + L 
 	or use from Data > Filter.
 
 ## To Remove filter 
