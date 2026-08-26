@@ -5,9 +5,10 @@
 	1. ctrl+x then place or select the first cell
 		of the destination row > ctrl+shift (+) +
 
-## Duplicate a cell- ctrl (+) '
-   1. ctrl (+) ; - todays date
+## Duplicate a cell-
+	1. ctrl (+) '
+   2. ctrl (+) ; - todays date
 
-   2. to change column positon- ctrl+x whole column, select left or right 
+   3. to change column positon- ctrl+x whole column, select left or right 
    	column then ctrl (+) +
 
