@@ -1,6 +1,0 @@
-1. To use filter in excel select the first cell of a sheet then click - ctrl + shift + L 
-	or use from Data > Filter.
-
-2. To Remove filter mouse right click then clear filter or deselect from Data Menu.
-3. For removing Blank rows filter> check blank from at last. then delete using ctrl-
-4. Best font for excel is - Segoe UI or Verdana , Calibri , Consolas
