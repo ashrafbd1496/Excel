@@ -14,6 +14,11 @@
 	For creating dropdown - create a list> 
 	select the cell want to where create dropdown.
 	go to Data Menu> Data Validation>Choose List from dropdown>
-	Select the list cells created> ok
+	Select the list cells  
 
-	
+### Create Seiral Numbers
+	for creating serial number use this formula and Drag down to end cell
+		=IF(E9="","",COUNTIF($E$9:E9,"<>")) or 
+		=IF(E20="","",COUNTA($E$20:E20))
+	here E9 or E20 is the cell number of next column of 
+	serial number. Serial Number will skip if the row is empty
