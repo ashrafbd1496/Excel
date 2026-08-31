@@ -22,3 +22,7 @@
 		=IF(E20="","",COUNTA($E$20:E20))
 	here E9 or E20 is the cell number of next column of 
 	serial number. Serial Number will skip if the row is empty
+
+### #VALUE! Error Fixing 
+	কোনো ফর্মুলায় হঠাৎ #VALUE! আসলে তা সুন্দরভাবে লুকিয়ে রাখতে বা বিকল্প মান দেখাতে IFERROR করে ঠিক করা যায়। 
+	=IFERROR(ফর্মুলা, 0) (এর অর্থ: মূল ফর্মুলায় ভুল/VALUE এরর আসলে এক্সেল সেখানে #VALUE! না দেখিয়ে ০ দেখাবে।)
