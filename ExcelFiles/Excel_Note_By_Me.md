@@ -29,8 +29,24 @@
 
 ### Excel Vlookup
 	Formula - =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
 	১. lookup_value (যা খুঁজছেন): যে তথ্যের ওপর ভিত্তি করে ডাটা খুঁজতে চান (যেমন: Roll Number বা Product ID)।
+
 	২. table_array (যে টেবিলে খুঁজবেন): পুরো ডাটা টেবিলের রেঞ্জ (যেখান থেকে ডাটা খুঁজে বের করতে হবে)।
+
 	৩. col_index_num (কত নম্বর কলামের ডাটা চান): আপনার কাঙ্ক্ষিত তথ্যটি টেবিলের কত নম্বর কলামে আছে? (১, ২, ৩... ইত্যাদি)।
+
 	৪. range_lookup (শর্ত): একদম নিখুঁত ম্যাচ চাইলে 0 বা FALSE দিন। (৯৯% ক্ষেত্রে 0 ব্যবহার করা হয়)।
-	
+
+### XLOOKUP 
+	Formula - =XLOOKUP(lookup_value, lookup_array, return_array, [if_not_found], [match_mode], [search_mode]) 
+
+	a. lookup_value (যা খুঁজছেন): যে আইডি, নাম বা তথ্যের ওপর ভিত্তি করে ডাটা খুঁজতে চাই।
+
+	b. lookup_array (যে কলামে আছে): খোঁজার বিষয়টি যে কলামে আছে, সেই কলামটি।
+
+	c. return_array (যে কলামের রেজাল্ট চান): যে কলামে আপনার কাঙ্ক্ষিত উত্তরটি আছে, সেই কলামটি।
+
+	d. [if_not_found] (ঐচ্ছিক): ডাটা না পাওয়া গেলে কী দেখাবে (যেমন: "Data Missing")।
+
+	e. [match_mode] & [search_mode] (ঐচ্ছিক): বিশেষ ধরনের ম্যাচ বা ওপর/নিচ থেকে সার্চ করার জন্য ব্যবহৃত হয়।
