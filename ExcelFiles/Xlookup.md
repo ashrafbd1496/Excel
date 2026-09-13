@@ -150,7 +150,6 @@
 
     ### Tips - 
         - যদি ৩ টি কলাম থাকে যেমন।  M Code, M Desc and Qty .
-     M Code  যদি ভুল হয় আর M Desc  এ মেটেরিয়াল ডেসক্রিপশন এ Not Foun 
+     M Code  যদি ভুল হয় আর M Desc  এ মেটেরিয়াল ডেসক্রিপশন এ Not Found 
      আর Qty  তে 0  দেখতে চাই সে ক্ষেত্রে এভাবে ফর্মুলা লিখতে হবে -
       =XLOOKUP(B21, B3:B16, C3:D16, {"Not Found",0}) 
-        - 
