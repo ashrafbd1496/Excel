@@ -50,3 +50,10 @@
 	d. [if_not_found] (ঐচ্ছিক): ডাটা না পাওয়া গেলে কী দেখাবে (যেমন: "Data Missing")।
 
 	e. [match_mode] & [search_mode] (ঐচ্ছিক): বিশেষ ধরনের ম্যাচ বা ওপর/নিচ থেকে সার্চ করার জন্য ব্যবহৃত হয়।
+
+### Formating 
+	- to format cell width or column with Home> Format> Row Height or Column width
+	- to reset use Autofit option or Default option. 
+	- For Painting cell colors to other cell use Format Painting. 
+	- For clearing use Clear> Clear Format and Clear Content.
+	- 
