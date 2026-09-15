@@ -67,3 +67,8 @@
 বা মাউস দিয়ে সেল পয়েন্ট করতে হবে।  এর পর ফ্রীজে মেনু থেকে ফ্রীজ করতে হবে।  
 
 	- কলাম  ফ্রীজ করতে ও সেইম পদ্ধতি অবলম্বন করতে হবে।   
+
+### Zoom Selection
+	- সিলেক্টেড সেল গুলো Zoom করে দেখতে View মেনু থেকে Zoom to Selection 
+  ### Cell Fill
+	- To fill cell with random numbers we can use - =RANDBETWEEN(1, 100000)
