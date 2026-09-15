@@ -51,9 +51,13 @@
 
 	e. [match_mode] & [search_mode] (ঐচ্ছিক): বিশেষ ধরনের ম্যাচ বা ওপর/নিচ থেকে সার্চ করার জন্য ব্যবহৃত হয়।
 
-### Formating 
-	- to format cell width or column with Home> Format> Row Height or Column width
-	- to reset use Autofit option or Default option. 
-	- For Painting cell colors to other cell use Format Painting. 
-	- For clearing use Clear> Clear Format and Clear Content.
-	- 
+
+### ফরম্যাটিং (Formatting)
+
+ 	-রো ও কলামের আকার নির্ধারণ: রো-এর উচ্চতা বা কলামের প্রস্থ সমন্বয় করতে Home > Format > Row Height অথবা Column Width নির্বাচন করুন।
+
+ 	-ডিফল্ট বা অটো সাইজ: সেলগুলোর আকার স্বয়ংক্রিয়ভাবে কনটেন্টের সাথে মিলিয়ে নিতে AutoFit অথবা আগের অবস্থায় ফেরাতে Default অপশন ব্যবহার করুন।
+
+ 	-ফরম্যাট কপি করা: একটি সেলের ফরম্যাটিং বা রঙের বিন্যাস অন্য সেলে প্রয়োগ করতে Format Painter ব্যবহার করুন।
+	
+	-ডেটা ও ফরম্যাট মোছা: কোনো সেলের তথ্য বা ডিজাইন পুরোপুরি মুছে ফেলতে Clear > Clear Formats অথবা Clear Contents অপশন বেছে নিন।
