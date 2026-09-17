@@ -11,4 +11,7 @@
 
    3. to change column positon- ctrl+x whole column, select left or right 
    	column then ctrl (+) +
-
+### Edit active cell 
+	- F2
+	- For outline border Ctrl+Shift+7 
+	- Wrap text in same cell - Alt+Enter
