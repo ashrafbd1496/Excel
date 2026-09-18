@@ -84,3 +84,5 @@
   
   	- শুধু টেক্সটগুলো আলাদা হয়ে বসে যাবে। একইভাবে শুধু নম্বরগুলো আলাদা করতে চাইলে, কনস্ট্যান্টস অপশনে গিয়ে বাকিগুলো আনচেক করে কেবল Numbers বক্সে টিক দিয়ে কপি-পেস্ট করুন।
 
+### For Auto fill Date
+	- Enter date at the first cell in month/day/year format then drag down. 
