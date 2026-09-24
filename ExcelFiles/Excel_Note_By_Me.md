@@ -86,3 +86,14 @@
 
 ### For Auto fill Date
 	- Enter date at the first cell in month/day/year format then drag down. 
+### Count and CountA CountBlank
+	- for getting better count we usually need to use COUNTA 
+	- for getting blank cells use - COUNTBLANK
+### Large, Small, Rank Functions
+	- Use Large to get large number or amount from a list. 
+	- Use small to get small or wort number or amount from a list. 
+	- we can get Large 1,2,3 or worst 1,2,3 using k value in small function.
+### Concat or & 
+	- We can use to add two text like first name , 
+  	last name using concat or & . use space between double quote. 
+	
