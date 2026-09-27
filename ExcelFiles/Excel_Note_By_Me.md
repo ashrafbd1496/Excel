@@ -108,3 +108,7 @@
    Right click to edit checkbox size and format control.
    insert the cell link to show true/false.
 
+### Deviation
+	- Deviation % = (Actual − Plan) ÷ Plan × 100
+                              ↑
+                    সবসময় PLAN দিয়ে ভাগ
