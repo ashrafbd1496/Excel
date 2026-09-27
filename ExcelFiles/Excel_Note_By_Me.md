@@ -96,4 +96,15 @@
 ### Concat or & 
 	- We can use to add two text like first name , 
   	last name using concat or & . use space between double quote. 
-	
+### Upper, lower and Proper
+	- use proper function to change cases of text properly. 
+### Extract Text
+	- For extracting text use left, right and Mid Function.
+
+### add check box
+	- For adding checkbox into a cell and check / uncheck 
+   value as TRUE / FALSE- need to active Developer option 
+   and then from insert add check box. 
+   Right click to edit checkbox size and format control.
+   insert the cell link to show true/false.
+
