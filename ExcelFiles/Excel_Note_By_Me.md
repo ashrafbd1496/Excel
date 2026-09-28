@@ -124,4 +124,8 @@
 	- Use TEXT(MOD(C8-B8,1),"h"" hrs ""m"" min""") for calculating time.
 	- For age use - =DATEDIF(B11,C11,"Y") & " Years, " & DATEDIF(B11,C11,"YM") & " Months, " & DATEDIF(B11,C11,"MD") & " Days"
   
-  
+### Protect Sheet
+	- For unprotect some column and Protect sheet firstly 
+  select column which want to keep unprotected, go to format cell,
+   uncheck the lock. Then right click the sheet 
+   name>ProtectSheet>Enter Password>ok. 
