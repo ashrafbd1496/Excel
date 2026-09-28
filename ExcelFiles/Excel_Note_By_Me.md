@@ -112,3 +112,16 @@
 	- Deviation % = (Actual − Plan) ÷ Plan × 100
                               ↑
                     সবসময় PLAN দিয়ে ভাগ
+### Add Image or Logo
+	- To add logo or Image into excel sheet use 
+	Insert>Illustrations>Picture. 
+   Merge the Cell size as you need the logo size. 
+### Convert Column to Row
+	- For converting column to row, Select entire sheet then copy
+	adn Go to paste Special option, use transpose then ok. 
+
+### Age and Time Calculation
+	- Use TEXT(MOD(C8-B8,1),"h"" hrs ""m"" min""") for calculating time.
+	- For age use - =DATEDIF(B11,C11,"Y") & " Years, " & DATEDIF(B11,C11,"YM") & " Months, " & DATEDIF(B11,C11,"MD") & " Days"
+  
+  
