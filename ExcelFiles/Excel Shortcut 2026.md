@@ -15,3 +15,5 @@
 	- To edit active cell - F2
 	- For outline border Ctrl+Shift+7 
 	- Wrap text in same cell - Alt+Enter
+### Shortcut for Save
+	- To save Excel file use - F12

@@ -129,3 +129,15 @@
   select column which want to keep unprotected, go to format cell,
    uncheck the lock. Then right click the sheet 
    name>ProtectSheet>Enter Password>ok. 
+
+### Filter and save
+	- For filter data and save into a new file 
+	use Advance filter option. open a new sheet> Filter>Advance Filter>
+	Choose Copy to another location> Then select List range, Criterai and Copy to > Ok
+### Data validation
+	- To limit a cell text length, example - for 11
+		Digit mobile number use Data Validation>Setting>Text Length.
+
+### Seperate Text Number
+	- For separating Text and Number from Mixed mode 
+	 use Data> Text to column.
