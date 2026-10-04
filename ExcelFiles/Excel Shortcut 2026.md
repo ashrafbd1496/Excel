@@ -17,3 +17,7 @@
 	- Wrap text in same cell - Alt+Enter
 ### Shortcut for Save
 	- To save Excel file use - F12
+
+### sum
+	- Select cells want to sum then press Alt + =
+  
