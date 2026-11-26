@@ -1,0 +1,11 @@
+let
+    dob = [Date of Birth],
+    today = Date.From(DateTime.LocalNow()),
+    y0 = Date.Year(today) - Date.Year(dob),
+    years = if Date.AddYears(dob, y0) > today then y0 - 1 else y0,
+    afterY = Date.AddYears(dob, years),
+    m0 = (Date.Year(today) - Date.Year(afterY)) * 12 + Date.Month(today) - Date.Month(afterY),
+    months = if Date.AddMonths(afterY, m0) > today then m0 - 1 else m0,
+    days = Duration.Days(today - Date.AddMonths(afterY, months))
+in
+    Text.From(years) & " Years " & Text.From(months) & " Months " & Text.From(days) & " Days"
