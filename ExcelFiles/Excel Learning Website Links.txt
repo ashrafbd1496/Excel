@@ -1,0 +1,19 @@
+সমস্যা: আমি Microsoft Excel এর ফর্মুলা, ফাংশন ও বিভিন্ন ফিচার শিখতে পারি না।
+সমাধান: 
+১. ExcelJet — এক্সেলের ফর্মুলা ও ফাংশন শেখার জন্য
+ওয়েবসাইট: https://exceljet.net/
+২. GCFGlobal — নতুনদের জন্য এক্সেলের বেসিক শেখার জন্য
+ওয়েবসাইট: https://edu.gcfglobal.org/en/excel/
+৩. Microsoft Support — এক্সেলের বিভিন্ন ফিচার ও অফিসিয়াল নির্দেশিকা শেখার জন্য
+ওয়েবসাইট: https://support.microsoft.com/excel
+৪. Chandoo — এক্সেল ড্যাশবোর্ড, চার্ট ও ডেটা অ্যানালাইসিস শেখার জন্য
+ওয়েবসাইট: https://chandoo.org/
+৫. Excel Easy — উদাহরণসহ এক্সেলের বেসিক থেকে অ্যাডভান্সড বিষয় শেখার জন্য
+ওয়েবসাইট: https://www.excel-easy.com/
+৬. Contextures — এক্সেলের ফর্মুলা, ডেটা ভ্যালিডেশন ও রিপোর্টিং শেখার জন্য
+ওয়েবসাইট: https://www.contextures.com/
+৭. My Online Training Hub — PivotTable, Power Query ও ডেটা অ্যানালাইসিস শেখার জন্য
+ওয়েবসাইট: https://www.myonlinetraininghub.com/
+৮. Spreadsheeto — সহজ উদাহরণের মাধ্যমে এক্সেলের বিভিন্ন ফিচার শেখার জন্য
+ওয়েবসাইট: https://spreadsheeto.com/
+প্রযুক্তির এই যুগে এক্সেল শেখার জন্য সবসময় টাকা খরচ করে কোর্স কেনার প্রয়োজন নেই। সঠিক রিসোর্স ব্যবহার করে নিয়মিত অনুশীলন করলে ঘরে বসেই অনেক কিছু শেখা সম্ভব।
